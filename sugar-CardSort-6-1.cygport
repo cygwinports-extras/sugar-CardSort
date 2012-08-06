@@ -1,0 +1,4 @@
+inherit sugar
+
+# directory name does not match tarball name
+SRC_URI="http://download.sugarlabs.org/sources/honey/Cardsort/CardSort-${PV}.tar.bz2"
