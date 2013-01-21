@@ -1,3 +1,6 @@
+NAME="sugar-CardSort"
+VERSION=7
+RELEASE=1
 inherit sugar
 
 # directory name does not match tarball name
